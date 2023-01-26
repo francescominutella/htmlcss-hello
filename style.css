@@ -1,7 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
     background: black;
 }
 .title{
     font-size: 100px;
     color: yellowgreen;
+    text-align: center;
 }
+
